@@ -1,0 +1,15 @@
+What are Design Patterns?
+Design Patterns are solutions to software design problems you find again and again in real-world application development.
+Patterns are about reusable designs and interactions of objects.
+
+There are close of 100s of design patterns and amongst these 23 design patterns known as GangOfFour patterns are considered as the 
+foundations for all design patterns. They are categorized into three groups-
+Creational: In software engineering deal with instantiations. For eg: 
+Abstract Factory-Creates instance of several families of classes.
+Builder-Separates object construction from its representation.
+Factory Method-Creates an instance of several derived classes.
+Prototype-A fully initialized instance to be copied or cloned.
+Singleton-A class of which only a single object can exist at a time,etc.
+Structural: 
+Behavioral
+
