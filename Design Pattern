@@ -4,12 +4,31 @@ Patterns are about reusable designs and interactions of objects.
 
 There are close of 100s of design patterns and amongst these 23 design patterns known as GangOfFour patterns are considered as the 
 foundations for all design patterns. They are categorized into three groups-
+
+
 Creational: In software engineering deal with instantiations. For eg: 
 Abstract Factory-Creates instance of several families of classes.
 Builder-Separates object construction from its representation.
 Factory Method-Creates an instance of several derived classes.
 Prototype-A fully initialized instance to be copied or cloned.
 Singleton-A class of which only a single object can exist at a time,etc.
-Structural: 
-Behavioral
+
+
+Structural: In Software Engineering, Structural design patterns are design patterns that ease the design by identifying a simple way to 
+realize relationships between entities. For eg:
+Proxy: An object representing another object.
+Adapter: Match interfaces of different classes.
+
+
+Behavioral: In software engineering, Behavioral design patterns are designed to identify common communication patterns between objects
+and realize these patterns. For eg:
+Command: Encapsulate a command request as an object.
+Iterators: Sequentially iterate/access the elements of a collection one by one.
+
+What are Architectural patterns?
+Architectural patterns are similar to design patterns. It is a general reusable solution to a commonly occurring problem
+in software architecture within a given context.
+They are similar to design patterns but have a broader scope.
+For eg: Microservices, MVC, Layers, Event driven architecture, etc .
+
 
